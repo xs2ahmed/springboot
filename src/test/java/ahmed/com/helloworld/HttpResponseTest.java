@@ -1,4 +1,4 @@
-package mahmed.net.helloworld;
+package ahmed.com.helloworld;
 
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
